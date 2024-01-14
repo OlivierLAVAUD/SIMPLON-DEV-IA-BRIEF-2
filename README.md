@@ -4,7 +4,7 @@
 ## Création et exploitation de BDD PostgreSQL à destination d'une agence immobilière
 
 ### Auteur(s):  
-#### Olivier LAVAUD * Github repo  * <a href="https://github.com/OLV-DEV-IA/">https://github.com/OLV-DEV-IA/</a>
+#### Olivier LAVAUD 
 
 ### Ressource(s)
 
